@@ -1,12 +1,12 @@
 import java.util.*;
 class Demo
-{dsf
+{
     public static void main(String arr[]) 
     {
         int a, b;
         Scanner ob=new Scanner(System.in);
          
-        System.out.print("enter a no.");
+        System.out.print("enter sursh a no.");
         a = ob.nextInt();
 
         System.out.print("Enter 2nd no.");
